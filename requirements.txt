@@ -1,0 +1,5 @@
+crewai>=0.80.0
+litellm
+groq
+python-dotenv
+streamlit
